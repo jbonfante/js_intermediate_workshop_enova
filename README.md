@@ -1,10 +1,8 @@
 # Enova JavaScript Intermediate Workshop
 
-## Building an Image Gallery - Step 1:
+## Building an Image Gallery - Final:
 
-* Basic Gallery very minimal
-* Flat markup
-* Very little jquery
+* You're done now... almost
 
 
 ### Mockup Design
