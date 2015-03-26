@@ -1,6 +1,6 @@
 # Enova JavaScript Intermediate Workshop
 
-## Building an Image Gallery - Step 1:
+## Building an Image Gallery - Step 3:
 
 * Basic Gallery very minimal
 * Flat markup
