@@ -1,10 +1,10 @@
 # Enova JavaScript Intermediate Workshop
 
-## Building an Image Gallery - Step 0:
+## Building an Image Gallery - Step 1:
 
-* Install Node: 	[NodeJS](nodejs.org) or `brew install node` ( w/ homebrew)
-* Install Bower: npm install -g bower
-* Fork & Clone Repository: [GITHUB REPO](bit.ly/jsws_github)
+* Basic Gallery very minimal
+* Flat markup
+* Very little jquery
 
 
 ### Mockup Design
